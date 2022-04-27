@@ -1,6 +1,8 @@
 
 ```mermaid
-graph TD;
-         START--&gt;READ THE BUTTON--&gt;CHECK CONDITION--&gt;BLOW--&gt;RESET--&gt;START
-```         
+flow chart TD;
+         A[START]-->B[READ BUTTON]
+         C[CHECK CONDITION]--D[STATUS]
+         D--YES-->E[LED ON]
+         D--NO-->F[LED OFF]
          
