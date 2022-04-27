@@ -6,6 +6,6 @@ START
 -->STATUS
 -->LOW
 -->LED ON
-STOP
+
 
          
