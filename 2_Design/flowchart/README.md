@@ -1,6 +1,6 @@
 FLOW CHART
 --------------------------------
-START -->
+START 
 -->READ THE BUTTON 
 -->CHECK CONDITION 
 -->STATUS
