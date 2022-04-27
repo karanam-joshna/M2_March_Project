@@ -1,9 +1,11 @@
-## HOW TO DISPLAY
-```mermaid
-flow chart TD
-         A[START]-->B[READ BUTTON]
-         C[CHECK CONDITION]--D[STATUS]
-         D--YES-->E[LED ON]
-         D--NO-->F[LED OFF]
-```         
+FLOW CHART
+--------------------------------
+START |
+READ THE BUTTON |
+CHECK CONDITION |
+STATUS|
+LOW|
+LED ON|
+STOP
+
          
